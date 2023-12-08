@@ -1,0 +1,20 @@
+marquee{
+    transition:2s ;
+    
+    background-color: lightgreen;
+    color: rgb(198, 57, 57);
+    
+}
+mark{
+    background-color: rgb(253, 225, 182);
+}
+#taste{
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+}
+button{
+    color: rgb(255, 253, 253);
+    background-color: rgb(103, 158, 103);
+    border-radius: 50px;
+}
+    
