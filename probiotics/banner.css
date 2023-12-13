@@ -17,4 +17,26 @@ button{
     background-color: rgb(103, 158, 103);
     border-radius: 50px;
 }
+div{
+    background-color: blanchedalmond;
+}
     
+nav{
+    position: fixed;
+    overflow: hidden;
+    width: 100%;
+    
+}
+
+ul{
+    overflow: hidden;
+    text-decoration: none;
+}
+li a{
+    text-decoration: none;
+    display: block;
+}
+
+li{
+    float: left;
+}
