@@ -1,0 +1,1 @@
+A practice webpage created during my internship as a Java Full Stack Trainee, designed for a fictional energy drink brand, Probiotics. Built using HTML, CSS, and JavaScript, it includes basic components like a landing section,some cards, table, and contact page — developed to enhance my front-end skills.
